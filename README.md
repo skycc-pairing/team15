@@ -1,2 +1,1 @@
-# team15
-SKYCC B팀
+# SKYCC B팀
